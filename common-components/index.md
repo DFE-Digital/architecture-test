@@ -17,6 +17,8 @@ Common components can be of any size but they all share the same characteristics
 6. test 4
 7. Test 578
 8. 8891
+10. 21
+
 
 ## Why should we use common components? ##
 
