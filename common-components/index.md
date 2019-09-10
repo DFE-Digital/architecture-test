@@ -87,14 +87,17 @@ EAPIM has been developed using Microsoft Azure’s API gateway, and the solution
 
 
 __Documentation__
+
 Read the Operating Model for more information about the solution design, security, availability, support and governance. If you need access to this document contact Matt Morgan.  
 
 __Support__
+
 The service is supported internally by a central team within CIPS.
 
 To report an issue with the service, contact the service desk; the team are available from 08:00 – 22:00 hrs Monday to Friday, excluding English public holidays.  
 
 __Roadmap__
+
 Over the next 18 months, the ETS team are evolving the solution in three key areas:
 •	Implementing enhancements to the API platform and integration middleware  
 •	Driving adoption On-boarding more APIs onto the platform
