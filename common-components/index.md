@@ -72,7 +72,19 @@ __Further guidance__
 <a name="eapim"></a>
 ### 2. Enterprise API Management platform
 
-[description]
+The enterprise integration and API management platform provides a single place to host and manage APIs.
+
+The solution offers a range of features that make it easy to publish APIs and share data, including automated on-boarding, tested global policy controls, portal customisation, identity and access management support, and flexible subscription management.
+
+Key platform features include:
+1.	Developer portal that enables developers to quickly find and reuse existing APIs – making it easy to exchange data between systems.
+2.	Templates that introduce a standard way of publishing APIs.
+3.	API Gateway that manages security policies and access management.
+4.	Integration middleware APIs to share data between multiple systems.
+5.	Central support reduces the cost of maintaining APIs.
+
+EAPIM has been developed using Microsoft Azure’s API gateway, and the solution is deployed within the [new CIP hosting platform].
+
 
 __Documentation__
 
