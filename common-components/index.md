@@ -83,16 +83,27 @@ Key platform features include:
 4.	Integration middleware APIs to share data between multiple systems.
 5.	Central support reduces the cost of maintaining APIs.
 
-EAPIM has been developed using Microsoft Azure’s API gateway, and the solution is deployed within the [new CIP hosting platform].
+EAPIM has been developed using Microsoft Azure’s API gateway, and the solution is deployed within the new CIP hosting platform.
 
 
 __Documentation__
+Read the Operating Model for more information about the solution design, security, availability, support and governance. If you need access to this document contact Matt Morgan.  
 
 __Support__
+The service is supported internally by a central team within CIPS.
+
+To report an issue with the service, contact the service desk; the team are available from 08:00 – 22:00 hrs Monday to Friday, excluding English public holidays.  
 
 __Roadmap__
+Over the next 18 months, the ETS team are evolving the solution in three key areas:
+•	Implementing enhancements to the API platform and integration middleware  
+•	Driving adoption On-boarding more APIs onto the platform
+	Promoting re-use of integration middleware
+•	Convergence
+	Platform capability and adoption roadmaps converge on DFEAAP (Single Access point from multiple client channels (internal/external) Mobile, Web and Desktop
 
 __Further guidance__
+Contact Sarfraz Malik to find out more about this solution.
 
 ## Further guidance ##
 
